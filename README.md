@@ -1,5 +1,6 @@
 ### Estudante 2B Exatas
 ![](https://media1.tenor.com/m/ShzdJcrguswAAAAC/burn-elmo.gif).
+![](https://media1.tenor.com/m/K-A090pkjI8AAAAd/honeycardi-the-weeknd.gif).
 <!--
 **felipeDRIFT/felipeDRIFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

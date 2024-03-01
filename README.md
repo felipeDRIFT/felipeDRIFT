@@ -1,5 +1,5 @@
 ### Estudante 2B Exatas
-![(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ffire-gifs&psig=AOvVaw0VuIl772IBpv0aV8kliJB7&ust=1709386644757000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCfiNKX04QDFQAAAAAdAAAAABAO).
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ffire-gifs&psig=AOvVaw0VuIl772IBpv0aV8kliJB7&ust=1709386644757000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCfiNKX04QDFQAAAAAdAAAAABAO).
 <!--
 **felipeDRIFT/felipeDRIFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
